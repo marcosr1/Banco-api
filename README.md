@@ -30,6 +30,7 @@ O projeto segue uma arquitetura em camadas (Controller, Service e Repository), c
 
 ## 📁 Estrutura do projeto
 
+```
 src/
 ├── config/
 │ └── database.js
@@ -44,6 +45,7 @@ src/
 │ └── BancoService.js
 ├── app.js
 └── server.js
+```
 
 ---
 
