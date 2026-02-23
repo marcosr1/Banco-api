@@ -49,10 +49,3 @@ src/
 
 ---
 
-## ⚙️ Configuração do ambiente
-
-### Clonar o projeto
-```bash
-git clone <url-do-repositorio>
-cd Banco-api
-```
